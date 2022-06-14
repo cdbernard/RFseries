@@ -6,12 +6,6 @@ library(scales)
 library(pbapply)
 library(Rage)
 library(popdemo)
-library(ggplot2)
-library(gganimate)
-library(plotly)
-library(tidyverse)
-library(dplyr)
-library(viridis)
 library(seewave)
 library(npreg)
 library(scales)
@@ -27,6 +21,8 @@ discretisation_Par <- 25
 domain_Filter <- 0.05
 dilation_parameter <- rep(0.1, 50)
 
+# New annotation
+1+1
 
 # General System Properties -------------------------
 # IPM Boundaries
